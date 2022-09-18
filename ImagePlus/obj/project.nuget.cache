@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ck1th9LDL7v0PNLDTNw/KL88v3y4DOG2w1Mpuxbs8yGFnYCKtTZrmaRyCQf+oDP1N8dR3UG/Ux/rg3YH0F4Iag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\孙相霖\\source\\repos\\ImagePlus\\ImagePlus\\ImagePlus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\孙相霖\\.nuget\\packages\\microsoft.web.webview2\\1.0.1343.22\\microsoft.web.webview2.1.0.1343.22.nupkg.sha512"
+  ],
+  "logs": []
+}
